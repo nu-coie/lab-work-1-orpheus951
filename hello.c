@@ -3,10 +3,13 @@
 int main(void)
 {
   
-  // Step ( 1 ) : Print Hello, World
+ printf("hello world\n");
+  string username=get_string("whatis your name?");
+  printf(hello %s\n",username);
+       
   
   
   
-  //Step ( 2 ) : Print Hello, Your Name
+  
 
 }
