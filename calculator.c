@@ -3,9 +3,13 @@
 
 
 int main(void)
+  char op = get_char("op;   ")
+  if (op == 'a')
 {
-// Accept Input From user (char), where (a) stands for "Addition", (m) for "Multiplications," and (d) for "Division,"
-  
+  int x = get_int("X;   ");
+    int y = get_int("Y;    ");
+    
+    int z = x + y;
 
   
 
